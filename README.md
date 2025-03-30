@@ -4,7 +4,7 @@ This is my personal project to classify 75 different classes of butterflies.
 
 ## Dataset
 
-My dataset I used in the notebook come from a private competition but you now can find it on [Kaggale](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification)
+My dataset I used in the notebook come from a private competition but you now can find it on [Kaggle](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification)
 
 The dataset features 75 different classes of Butterflies. The dataset contains about 1000+ labelled images including the validation images. Each image belongs to only one butterfly category.
 
